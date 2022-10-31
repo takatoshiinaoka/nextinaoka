@@ -1,6 +1,14 @@
 # NEXTINAOKA
-TS boot campのアプリ
-TS boot camp概要
+TS boot campのアプリ  
+- 期間：11/1 ~ 11/30  
+- 概要：Webアプリを1から作成してデプロイまでやって、みんなで発表会する。  
+- ルール：11/1~新しくコードを書き始める  
+- フェーズ1：React+TS でWebアプリ作成
+    - 開発期間：11/1 ~ 15
+    - 発表会：15日
+- フェーズ2：React+TSでLIFFアプリ作成
+    - 開発期間：11/16 ~ 30
+    - 発表会：30日
 
 # 参考サイト
 - [Next.js + TypeScriptの環境構築](https://qiita.com/itachi/items/05fbe67c7168703a34e7)
