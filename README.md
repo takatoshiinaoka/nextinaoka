@@ -10,5 +10,19 @@ TS boot campのアプリ
     - 開発期間：11/16 ~ 30
     - 発表会：30日
 
+# 使い方
+クローンからローカルサーバー起動まで
+```
+git clone 
+yarn install
+touch next-env.d.ts
+yarn dev
+```
+eslintとprettier
+```
+yarn lint
+yarn format
+```
+
 # 参考サイト
 - [Next.js + TypeScriptの環境構築](https://qiita.com/itachi/items/05fbe67c7168703a34e7)
