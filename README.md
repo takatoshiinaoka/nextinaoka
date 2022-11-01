@@ -26,3 +26,5 @@ yarn format
 
 # 参考サイト
 - [Next.js + TypeScriptの環境構築](https://qiita.com/itachi/items/05fbe67c7168703a34e7)
+- [【2022年】Next.js + TypeScript + ESLint + Prettier の構成でサクッと環境構築する
+](https://zenn.dev/hungry_goat/articles/b7ea123eeaaa44)
