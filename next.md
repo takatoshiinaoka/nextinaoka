@@ -9,6 +9,11 @@
   - プリレンダリング  
     最初から完成されたページが読み込まれる(事前に HTML を生成する)
   - ページ読み込みが速い → SEO に強い！
+  - 環境構築の「npx create-next-app」が React より速い！！
+
+## VSCode 拡張機能
+
+- Next.js snippets
 
 ## プリレンダリングの種類
 
